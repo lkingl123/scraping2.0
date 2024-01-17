@@ -1,0 +1,47 @@
+[
+    {
+        "title": "PHP From Scratch 2024",
+        "difficulty": "ALL LEVELS",
+        "url": "https://www.traversymedia.com/php-from-scratch"
+    },
+    {
+        "title": "70+ JS Challenges: Data Structures & Algorithms",
+        "difficulty": "INTERMEDIATE",
+        "url": "https://www.traversymedia.com/javascript-challeges"
+    },
+    {
+        "title": "Bootstrap 5 From Scratch\nBuild 5 Modern Websites",
+        "difficulty": "BEGINNER",
+        "url": "https://traversymedia.com/bootstrap-from-scratch"
+    },
+    {
+        "title": "Modern JavaScript From The Beginning 2.0",
+        "difficulty": "ALL LEVELS",
+        "url": "https://traversymedia.com/modern-javascript-2-0"
+    },
+    {
+        "title": "React Front To Back",
+        "difficulty": "BEGINNER - INTERMEDIATE",
+        "url": "https://traversymedia.com/Modern-React-Front-To-Back-Course"
+    },
+    {
+        "title": "50 Projects in 50 Days - HTML, CSS & JavaScript",
+        "difficulty": "ALL LEVELS",
+        "url": "https://traversymedia.com/50-Projects-In-50-Days"
+    },
+    {
+        "title": "Modern HTML & CSS From The Beginning",
+        "difficulty": "BEGINNER",
+        "url": "https://traversymedia.com/modern-html-css-course"
+    },
+    {
+        "title": "Node.js API Masterclass",
+        "difficulty": "INTERMEDIATE",
+        "url": "https://traversymedia.com/node-js-api-masterclass"
+    },
+    {
+        "title": "MERN From Scratch\neCommerce Platform",
+        "difficulty": "INTERMEDIATE",
+        "url": "https://www.traversymedia.com/mern-stack-from-scratch"
+    }
+]
