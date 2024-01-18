@@ -4,6 +4,7 @@ https://www.youtube.com/watch?v=S67gyqnYHmI&ab_channel=TraversyMedia
 
 
 1. npm init -y
+2. npm i puppeteer
 
 
 In Visual Studio Code (VS Code), the hotkey for formatting a document, including JSON files, is typically:
